@@ -181,8 +181,8 @@
     "paging": {
         "before": 1,
         "after": -1,
-        "boundary": true
+        "boundary": false
     },
-    "fresh_text": "博客已更新",
+    "fresh_text": "博客已更新7条",
     "total_number": 27
 }
