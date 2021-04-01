@@ -1,0 +1,20 @@
+{
+    "id": 401617108262962,
+    "votes_weight": 20,
+    "comments_count": 30,
+    "title": "Swift 的 Array 和 Dictionary 源码欣赏，和创建一个线程安全的 Array 和 Dictionary",
+    "content": "Array 源码, 线程安全, Collection, ExpressibleByDictionaryLiteral, RangeReplaceableCollection 等协议\n\n为 SafeDictionary 类添加其他函数\n\n为了让我们做出的类跟 swift 默认的 Array 和 Dictionary 一样方便好用，以 Dictionary 为例：\n\n支持 subscript 下标，👆上面的一部分已经涉及到\n支持 Sequence，序列，使类的对象可以遍历读出 forEach({}), first(where:), filter(),\n支持 Collection，支持之后能够使用跟 Sequence 一样的高阶函数，稍后再扩展\n支持 ExpressibleByDictionaryLiteral， 字面量 初始化\n支持 Equatable\n支持 Hashable",
+    "images": ["https://gitee.com/poos/test-api/raw/master/img/flutter_state_1.png", "https://gitee.com/poos/test-api/raw/master/img/flutter_state_2.png"],
+    "created_at": 1617118809299,
+    "user": {
+        "id": 401617108262962,
+        "uuid": "401617108262962",
+        "name": "Shown",
+        "title": "user",
+        "avatar": "https://poos.github.io/img/icon_wechat.png",
+        "verified": "vip"
+    },
+    "tags": "Summary, Code, Linter",
+    "url": "/2021/03/07/SafeArrayDic/",
+    "date": "2021-03-07 00:00:00 +0000"
+}
