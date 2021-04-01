@@ -9,7 +9,7 @@
             "uuid": "401617108262962",
             "name": "Tionary",
             "title": "poster",
-            "avatar": "https://poos.github.io/img/avatar-3.png",
+            "avatar": "https://gitee.com/poos/test-api/raw/master/img/avatar-3.png",
             "verified": "vip"
         }
     }, {
@@ -22,7 +22,7 @@
             "uuid": "401617108262962",
             "name": "Cress",
             "title": "vip",
-            "avatar": "https://poos.github.io/img/avatar-1.png",
+            "avatar": "https://gitee.com/poos/test-api/raw/master/img/avatar-1.png",
             "verified": "vip"
         }
     }, {
@@ -35,7 +35,7 @@
             "uuid": "401617108262962",
             "name": "Colaion",
             "title": "user",
-            "avatar": "https://poos.github.io/img/avatar-2.png",
+            "avatar": "https://gitee.com/poos/test-api/raw/master/img/avatar-2.png",
             "verified": "vip"
         }
     }, {
@@ -48,7 +48,7 @@
             "uuid": "401617108262962",
             "name": "Grray",
             "title": "poster",
-            "avatar": "https://poos.github.io/img/avatar-1.png",
+            "avatar": "https://gitee.com/poos/test-api/raw/master/img/avatar-1.png",
             "verified": "vip"
         }
     }, {
@@ -61,14 +61,14 @@
             "uuid": "401617108262962",
             "name": "401617",
             "title": "vip",
-            "avatar": "https://poos.github.io/img/avatar-3.png",
+            "avatar": "https://gitee.com/poos/test-api/raw/master/img/avatar-3.png",
             "verified": "vip"
         }
     }],
     "paging": {
         "before": 0,
         "after": 1,
-        "boundary": false
+        "boundary": true
     },
     "total_number": 9
 }
